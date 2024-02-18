@@ -7,6 +7,13 @@ When starting a workout, you will be prompted to update the values of repetition
 These updated values will then be showed the next time you start the same template/workout.
 All templates are stored as csv-files, in the same directory as the project.py file.
 
+#### Files
+The following files are a part of this project:
+##### project.py - This is the main project.
+##### README.md - Documentation for the project.
+##### requirements.txt - describes the installations necessary to run the program
+##### test_project.py - A file that tests 3 functions inside project.py
+
 #### Menu options
 When starting the program, a menu will appear showing the available options.
 The options are as follows:
