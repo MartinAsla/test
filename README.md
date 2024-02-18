@@ -10,7 +10,7 @@ All templates are stored as csv-files, in the same directory as the project.py f
 When starting the program, a menu will appear showing the available options.
 The options are as follows:
 
-### C - To create a new template.
+##### C - To create a new template.
 This gives the user the option to create a custom template in which multiple exercises can be grouped.
 The different exercises will also be complemented with repetitions and weight used for each one.
 
