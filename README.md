@@ -25,3 +25,5 @@ but also supports measurements at the end. Available measurements are "kg", "kgs
 
 When the first exercise has been added to the template you have the option to add more, or choose to save the template.
 If you choose to save the template, all the exercises will be written to a new csv-file with the name of the template.
+
+##### S - To Start a template.
