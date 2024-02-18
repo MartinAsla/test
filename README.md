@@ -27,3 +27,7 @@ When the first exercise has been added to the template you have the option to ad
 If you choose to save the template, all the exercises will be written to a new csv-file with the name of the template.
 
 ##### S - To Start a template.
+
+
+##### E - To exit the program.
+As simple as that, just exits the program.
