@@ -35,7 +35,7 @@ The name of the template will remain the same.
 If you only have one template in the root directory of the program, that template will automatically be started when starting a template.
 Should you ever have more than two templates, let's say template1.csv and template2.csv, will the program output all available templates.
 From here you can simply just enter in template1.csv, or optionally just template1.
-Just remember that the inputted templatename must be written as case sensitive.
+But remember that the inputted templatename must be written as case sensitive.
 
 ##### E - To exit the program.
 As simple as that, just exits the program.
